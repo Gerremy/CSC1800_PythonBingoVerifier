@@ -1,0 +1,14 @@
+TEST CASE ANSWERS FOR PROJECT 2
+
+TEST      ANSWER
+----      ------
+ 1        VALID BINGO
+ 2        NO BINGO
+ 3        NO BINGO
+ 4        VALID BINGO
+ 5        NO BINGO
+ 6        NO BINGO
+ 7        VALID BINGO
+ 8        NO BINGO
+ 9        NO BINGO
+10        VALID BINGO
